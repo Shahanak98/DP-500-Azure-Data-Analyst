@@ -55,7 +55,7 @@ In this task, you will set up Power BI Desktop.
     
 4. You will be redirected to the Power BI sign-up page in Microsoft Edge. Select **Continue** to complete the sign up.
 
-	![](../images/dp500-create-a-star-schema-model-image3b.png)
+	![](../images/powerbilogin.png)
 	
 	>**Note**: If not redirected, go to [https://powerbi.com](https://powerbi.com/) and use the lab credentials to complete the sign in process.
 
@@ -183,7 +183,7 @@ In this task, you will create a dataflow that represents a consistent definition
 
 1. To remove unnecessary columns, on the **Home** ribbon tab, from inside the **Manage Columns** group, select the **Choose Columns** icon.
 
-	![](../images1/mod5-choose-column.png)
+	![](../images1/DP-500-Column-11.png)
 
 1. In the **Choose Columns** window, to uncheck all checkboxes, uncheck the first checkbox.
 
@@ -276,7 +276,7 @@ In this task, you will create a dataflow that represents a consistent definition
 
 1. To remove unnecessary columns, on the **Home** ribbon tab, from inside the **Manage Columns** group, select the **Choose Columns** icon.
 
-	![](../images1/mod5-choose-column.png)
+	![](../images1/DP-500-Column-step.png)
 
 1. In the **Choose Columns** window, to uncheck the following columns:
 
